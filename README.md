@@ -1,5 +1,8 @@
 ## Welcome to My GitHub Profile 👋
 
+I'm a 17 years old guy, trying to learn programming
+
+<!--
 ### 💻 Software Development & Web Development
 
 Focused on writing clean and efficient code, primarily in Python. Currently studying web development and exploring new technologies to improve development skills.
@@ -18,6 +21,9 @@ Focused on writing clean and efficient code, primarily in Python. Currently stud
 ---
 
 📌 *Building solutions, one line of code at a time.*
+
+-->
+
 
 <!--
 **AFxDvid/AFxDvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
